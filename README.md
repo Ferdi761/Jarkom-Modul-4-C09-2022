@@ -427,6 +427,17 @@ Dengan tree tersebut, didapatkan hasil pembagian IP sebagai berikut:
   </tr>
 </table>
 
+- ### Setting IP Router
+
+<img src="./router01.PNG"/>
+<img src="./router02.PNG"/>
+<img src="./router03.PNG"/>
+<br/>
+
+- ### Setting IP PC
+
+<img src="./set-pc.PNG"/>
+
 ## CIDR <a name = "CIDR"></a>
 
 These instructions will get you a copy of the project up and
